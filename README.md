@@ -1,4 +1,5 @@
 🥑 Avocado Price Optimization using Data Science & Mathematical Modeling
+
 Colab Link: https://colab.research.google.com/drive/1KL54NqcAv34x-jsH-_BkuIq7BEdFKNTv
 
 This project demonstrates how to use data analytics, regression modeling, and mathematical optimization to determine the optimal price and supply of avocados that maximize net revenue.
